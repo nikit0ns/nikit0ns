@@ -56,5 +56,5 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikit0ns&layout=compact&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://github.com/{{nikit0ns}}/{{nikit0ns}}/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/nikit0ns/nikit0ns/blob/output/github-contribution-grid-snake.gif)
 
