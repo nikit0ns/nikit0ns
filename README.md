@@ -57,4 +57,4 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikit0ns&layout=compact&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 
-![image title](https://rushter.com/counter.svg)
+
