@@ -5,7 +5,7 @@
 <h3 align="center">Cyber Security student from Ukraine </h3>
 
 ----
-
+![](https://gitwar.herokuapp.com/badge?nikit0ns&style=flat-square)
 ### :woman_technologist: About Me :
 
 I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Odessa.
