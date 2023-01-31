@@ -28,6 +28,9 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 </div>
 
+<div align="center">
+<br><p align="center"><b>Pʀᴏғɪʟᴇ Vɪᴇᴡᴇʀs</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{nikit0ns}/count.svg"/></p> 
 ----
 
 ### :bell: Connect with me :
