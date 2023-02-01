@@ -44,8 +44,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nikit0ns&theme=slateorange)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikit0ns&layout=compact&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikit0ns&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikit0ns&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nikit0ns&theme=tokyonight&utcOffset=8)
 
