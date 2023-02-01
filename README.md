@@ -4,6 +4,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Cyber Security student from Ukraine </h3>
 
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=39EA39FF&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Nikita+Kasyanenko+;%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93 +Cyber+Security+student+from+Ukraine" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
+</div>
 ----
 <iv align="center">
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{nikit0ns}/count.svg"/></p> 
