@@ -5,6 +5,9 @@
 <h3 align="center">Cyber Security student from Ukraine </h3>
 
 ----
+<iv align="center">
+<br><p align="center"><b>Pʀᴏғɪʟᴇ Vɪᴇᴡᴇʀs</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{nikit0ns}/count.svg"/></p> 
 ### :woman_technologist: About Me :
 
 I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Odessa.
