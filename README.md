@@ -25,21 +25,11 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 ### :bell: Connect with me :
 
-
-<div id="badges">
-  <a href="https://t.me/nikit0ns">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="https://www.instagram.com/nikitons_/">
-    <img src="https://img.shields.io/badge/Instagram-deeppink?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCNhkfqgUVXDBmH-Lcke7-Og">
-    <img src="https://img.shields.io/badge/YouTube-firebrick?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/NikitaKasanenk1">
-    <img src="https://img.shields.io/badge/Twitter-dodgerblue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+[![Telegram](https://img.shields.io/badge/telegram-2A8BD2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nikit0ns)
+[![Instagram](https://img.shields.io/badge/instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nikitons_)
+[![YouTube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNhkfqgUVXDBmH-Lcke7-Og)
+[![Twitter](https://img.shields.io/badge/twitter-1E90FF?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NikitaKasanenk1)
+[![Donate](https://img.shields.io/badge/💛_donate-f96854.svg?style=for-the-badge)](https://ko-fi.com/nikit0ns)
 
 ----
 
