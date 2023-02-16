@@ -14,7 +14,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
+![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
 ----
 
 ### :hammer_and_wrench: Languages and Tools :
