@@ -1,6 +1,11 @@
 
 <h1 align="center">Hi there, I'm Nikita Kasyanenko</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img
+  src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand.png"
+  alt="Waving Hand"
+  width="40"
+  height="40"
+/>
 <h3 align="center">Cyber Security student from Ukraine </h3>
 
 ----
