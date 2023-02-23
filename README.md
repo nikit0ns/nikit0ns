@@ -4,7 +4,7 @@
 <h3 align="center">Cyber Security student from Ukraine </h3> 
 
 ----
-
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 ### :man_technologist: About Me :
 
 I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Odessa.
