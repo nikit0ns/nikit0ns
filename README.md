@@ -7,7 +7,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Odessa.
+I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Odesa.
 
 - :telescope: I'm a computer programmer, majoring in CyberSecurity.
 
