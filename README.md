@@ -18,7 +18,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 ### :hammer_and_wrench: Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=py,vscode,github,powershell,bash,androidstudio,stackoverflow,linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,vscode,github,powershell,bash,androidstudio,stackoverflow)](https://skillicons.dev)
 
 ----
 
