@@ -28,6 +28,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 [![Instagram](https://img.shields.io/badge/instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nikitons_)
 [![Twitter](https://img.shields.io/badge/twitter-1E90FF?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NikitaKasanenk1)
 [![Donate](https://img.shields.io/badge/💛_donate-f96854.svg?style=for-the-badge)](https://ko-fi.com/nikit0ns)
+[![Linkedin](https://img.shields.io/badge/linkedin-00669a?style=for-the-badge&logo=linkedin&logoColor=white)](https://twitter.com/NikitaKasanenk1)
 
 ----
 
